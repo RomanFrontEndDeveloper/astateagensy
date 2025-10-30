@@ -1,12 +1,14 @@
 import React from 'react';
 import Hero from './Hero/Hero';
 import ApartmentType from './AapartmentType/ApartmentType';
+import Properties from './Properties/Properties';
 
 const Home = () => {
 	return (
 		<div className='overflow-hidden'>
 			<Hero />
 			<ApartmentType />
+			<Properties />
 		</div>
 	);
 };

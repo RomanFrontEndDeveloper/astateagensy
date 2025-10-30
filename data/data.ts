@@ -39,7 +39,7 @@ export const properties = [
 		bedrooms: 1,
 		bathrooms: 2,
 		size: 1200,
-		price: 45000,
+		price: 5500,
 		imageUrl: '/images/p1.jpg',
 	},
 	{
@@ -49,7 +49,7 @@ export const properties = [
 		bedrooms: 2,
 		bathrooms: 1,
 		size: 950,
-		price: 50000,
+		price: 2900,
 		imageUrl: '/images/p2.jpg',
 	},
 	{
@@ -59,7 +59,7 @@ export const properties = [
 		bedrooms: 3,
 		bathrooms: 2,
 		size: 1300,
-		price: 60000,
+		price: 1800,
 		imageUrl: '/images/p3.jpg',
 	},
 	{
@@ -69,7 +69,7 @@ export const properties = [
 		bedrooms: 1,
 		bathrooms: 1,
 		size: 800,
-		price: 75000,
+		price: 3500,
 		imageUrl: '/images/p4.jpg',
 	},
 	{
@@ -79,7 +79,7 @@ export const properties = [
 		bedrooms: 4,
 		bathrooms: 3,
 		size: 2000,
-		price: 90000,
+		price: 2000,
 		imageUrl: '/images/p5.jpg',
 	},
 	{
@@ -89,7 +89,7 @@ export const properties = [
 		bedrooms: 1,
 		bathrooms: 1,
 		size: 700,
-		price: 48000,
+		price: 2500,
 		imageUrl: '/images/p6.jpg',
 	},
 ];
