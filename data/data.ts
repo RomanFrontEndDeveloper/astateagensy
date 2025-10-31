@@ -175,7 +175,7 @@ export const buildings = [
 export const blogs = [
 	{
 		id: 1,
-		date: '02 Apr 2024',
+		date: '28 Okt 2025',
 		comment: 'Comments (3)',
 		title: 'Find the Perfect Advertiser for Your Needs',
 		shortDescription:
@@ -184,7 +184,7 @@ export const blogs = [
 	},
 	{
 		id: 2,
-		date: '05 Apr 2024',
+		date: '25 Okt 2025',
 		comment: 'Comments (2)',
 		title: 'Maximize Your Business Growth with Smart Marketing',
 		shortDescription:
@@ -193,7 +193,7 @@ export const blogs = [
 	},
 	{
 		id: 3,
-		date: '10 Apr 2024',
+		date: '27 Okt 2025',
 		comment: 'Comments (5)',
 		title: 'Tips for Choosing the Right Property to Invest In',
 		shortDescription:
